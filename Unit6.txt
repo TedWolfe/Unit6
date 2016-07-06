@@ -1,0 +1,18 @@
+Part 3:
+Chapter 5 Exercises: 3, 5, 7, 14
+
+*Write an individual HTML or JS file per exercise.
+
+
+3. Write a function that returns the average of all of the items in an array. 
+
+For example, average([ 4, 5, 7, 2]) should return 4.5.
+
+
+5. Write a function that accepts two numbers and returns a random number between the two values. 
+
+
+7. Write a function that returns the number of zeros in a given array. For example, the call numberOfZeros([ 4, 0, false, 5, 0]) should return 2. 
+
+
+14. Search for and read a couple articles on refactoring. Explain the concept in your own words.
