@@ -1,0 +1,22 @@
+Unit 6 Part 3:
+
+14. Search for and read a couple articles on refactoring. Explain the concept in your own words.
+
+
+According to Wikipedia, factoring is breaking a complex problem or system into parts that are easier to conceive, understand, program, and maintain.  The wiki article claims another word for this decomposition.  I believe we are still OOP-centric, so my guess would be that "object-oriented decomposition" (breaking a large system down into smaller classes or objects) would be of the most concern to the Javascript language.
+
+If that is factoring, what, then, is refactoring?
+
+Refactoring is reworking existing code to make it clearer and easier to maintain without changing what it does.
+
+According to Wikipedia, "refactoring improves nonfunctional attributes of the software".  Wait, what?  "Non-functional"?  You mean, just make it pretty?  That can't be right.  Let me find other sources.
+
+This site: http://www.telerik.com/blogs/top-5-reasons-why-you-should-refactor-your-code gives 5 reasons to refactor code, but, again, in the real world his arguments boil down to "make it pretty".  This is not acceptable in a real world environment.  In the time-sensitive, get-it-done-now, good enough, profit driven world we live in finding time to do things once is a great challenge.
+
+I'm currently the hardware guy for a software company.  They've been releasing code with a "we will revisit it later" attitude for almost a decade, but the time to revisit it never materializes.  In fact, we routinely release code that has been half tested with the idea of fixing bugs as paying customers find them.  It is not just this company.  Releasing code and fixing bugs as they are found is a current business model.
+
+Clarity and maintainability are important but secondary when a progarmmer's salary is dependent on them getting the job done by this certain date.  Plus, what intelligent, clever person capable of writing code in the first place makes themselves easily replaceable on purpose?!?  The one instance where I can see clarity, documentation, and maintainability being the forefront concern is in a cubicle farm that has low paid programmers and a high turnover rate.
+
+I can fully appreciate that no one writes great code at the beginning.  I can fully appreciate that some older code can be re-examined with knowledge we have now that wasn't available in the past.  But, my caveat would be to improve the function of the code... to make it work better.  From what I understand that would fall under re-writing code, not refactoring it.
+
+The one benefit I can see from refactoring is it may give an unemployed programmer some buzzwords to use on potential employers so they may gain meaningful employment.  For that, I'm 100% behind it.
